@@ -1,0 +1,1 @@
+File handling: Need for a data file : Text files , Binary Files and CSV (Comma seprated values) files.
