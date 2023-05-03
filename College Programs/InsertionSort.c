@@ -26,9 +26,8 @@ void insertionSort(int *A, int n){
 
 int main(){
    
-    int A[] = {12, 54, 65, 7, 23, 9};
+    int A[] = {25, 5, 28, 50, 1, 7};
     int n = 6;
-    printArray(A, n);
     insertionSort(A, n);
     printArray(A, n);
     return 0;

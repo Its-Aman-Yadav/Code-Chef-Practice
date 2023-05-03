@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "c:/Users/91852/Study Material/VS Code/Collge Programs",
+      "cwd": "c:/Users/91852/Study Material/VS Code/College Programs",
       "environment": [],
-      "program": "c:/Users/91852/Study Material/VS Code/Collge Programs/build/Debug/outDebug",
+      "program": "c:/Users/91852/Study Material/VS Code/College Programs/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",

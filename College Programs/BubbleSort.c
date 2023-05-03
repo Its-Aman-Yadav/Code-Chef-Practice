@@ -31,7 +31,7 @@ void printArray(int array[], int size) {
 }
 
 int main() {
-  int data[] = {-2, 45, 0, 11, -9};
+  int data[] = {25,5,2,8,50,1,7};
   
   // find the array's length
   int size = sizeof(data) / sizeof(data[0]);
