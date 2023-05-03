@@ -8,7 +8,7 @@ int main()
    int t;
    cin>>t;
    int a,b;
-   while(t--){
+   while(t--){      //comment
        int sum=0;
        cin>>a>>b;
        sum=a+b;
