@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    int t; 
+    int t;        //test cases
     cin >> t;
     while(t) {
         int x, y;
